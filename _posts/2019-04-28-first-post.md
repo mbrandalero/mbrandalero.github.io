@@ -1,0 +1,15 @@
+---
+layout: post
+title: First post!
+---
+
+Apparently I finally decided to update my academic website, and add a blog on top of that.
+
+I expect to write about the experiences I've accumulated over the years as a computer architecture researcher, methodologies, tools, techniques, and maybe other things as well.
+
+By the way, this page is generated statically using a modified version of the [beautiful] theme for the [Jekyll] tool.
+
+[beautiful]: https://deanattali.com/beautiful-jekyll/
+[Jekyll]: https://jekyllrb.com/
+
+
