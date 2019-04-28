@@ -30,6 +30,8 @@ def customize_parser(record):
 
         for first_name in author_names["first"]:
             formatted_name += first_name[0]
+        if author_names["von"]:
+            formatted_name += " " + author_names["von"][0]
         formatted_name += " " + author_names["last"][0]
         # 1.3) Make my name bold
         if formatted_name == "M Brandalero":
