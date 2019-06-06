@@ -13,6 +13,8 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
+encoding: utf-8
+
 # Name of website
 title: Marcelo Brandalero
 
