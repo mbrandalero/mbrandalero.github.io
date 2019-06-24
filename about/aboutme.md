@@ -9,8 +9,9 @@ I have recently completed my Ph.D. in Computer Science at the [Universidade Fede
 [Universidade Federal do Rio Grande do Sul (UFRGS)]: http://www.ufrgs.br
 [Porto Alegre, Brazil]: https://goo.gl/maps/9Q7L9Laj1bJvcsEy8
 
-My Ph.D. thesis was advised by [Prof. Antonio Carlos Schneider Beck] and [Prof. Luigi Carro], from UFRGS, with close collaboration with [Prof. Muhammad Shafique], from TU Wien. It focused on microarchitectural design, reconfigurable architectures, adaptive systems, approximate computing and near-threshold voltage computing.
+My Ph.D. thesis was advised by [Prof. Antonio Carlos Schneider Beck] and [Prof. Luigi Carro], from UFRGS, with close collaboration with [Prof. Muhammad Shafique], from [TU Wien]. It focused on microarchitectural design, reconfigurable architectures, adaptive systems, approximate computing and near-threshold voltage computing.
 
 [Prof. Antonio Carlos Schneider Beck]: http://www.inf.ufrgs.br/~caco
 [Prof. Luigi Carro]: http://www.inf.ufrgs.br/~carro
 [Prof. Muhammad Shafique]: https://ti.tuwien.ac.at/ecs/people/shafique
+[TU Wien]: http://www.tuwien.at
